@@ -1,0 +1,18 @@
+---
+en:
+  activerecord:
+    models:
+      category:
+        one: Categoria
+        others: Categorias
+  categories:
+    form:
+      description: Description
+      name: Name
+    new_category: New category
+  common:
+    back: Atras
+  hello: Hello world
+  task:
+    errors:
+      invalid_due_date: Invalid due date

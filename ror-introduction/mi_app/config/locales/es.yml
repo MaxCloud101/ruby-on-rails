@@ -1,0 +1,7 @@
+---
+es:
+  hello: Hola Mundo
+  users:
+    first_name: Nombres
+    form:
+      last_name: Last name
