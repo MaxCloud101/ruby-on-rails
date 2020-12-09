@@ -7,17 +7,14 @@ This project contain ruby on rails proyect and examples
 ## Commands
 
 - Load bash profile to use rvm
-
 ```
 source $HOME/.bash_profile
 ```
-
 - Change ruby version
 
 ```
 rvm use ruby-2.7.1
 ```
-
 - Change NVM version for Ruby use
 ```
 nvm use v12.18.3
