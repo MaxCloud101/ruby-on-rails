@@ -1,0 +1,7 @@
+---
+en:
+  hello: Hello world
+  users:
+    first_name: First name
+    form:
+      last_name: Last name
