@@ -1,7 +1,0 @@
----
-en:
-  hello: Hello world
-  users:
-    first_name: First Name
-    form:
-      last_name: Last name
